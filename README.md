@@ -1,4 +1,5 @@
 Project Brief
+
 The client of the Webflix streaming service located in Edinburgh, which offers a wide variety of movies, documentaries and T.V. programs, requires a mobile web-based application to support the business and let clients watch trailers or purchase premium a year subscription for a fee of £99.99 while creating their account and login into the system. 
 The streaming app should introduce the movie’s/T.V.’s content on the side, which is present. A register, logging, review, and booking section must also be there.
 The application will aim at devices and target screen sizes of 5.8-inch minimum screens. The cinema app must be compatible with the most popular browsers with the latest versions like Android, iOS Safari, and the most common Chrome browser. 
